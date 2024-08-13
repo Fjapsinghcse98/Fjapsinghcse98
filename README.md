@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Arun Prakash Singh
+- 👀 I’m interested in web Development
+- 🌱 I’m currently learning Stock Trading and development
+- 📫 How to reach me fjapsingh98@gmail.com
